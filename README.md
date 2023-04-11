@@ -3,7 +3,7 @@
 
  <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=oestrangeiro&hide_title=true&line_height=30&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=oestrangeiro&theme=dracula&hide_border=true"></a>&nbsp;
+src="https://github-readme-streak-stats.herokuapp.com/?user=oestrangeiro&theme=dark&hide_border=true"></a>&nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=oestrangeiro&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=9&hide_border=true"></a>&nbsp;
 
