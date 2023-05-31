@@ -1,7 +1,12 @@
 
-
-
 <h1 align="center"> Programs should be written for people to read, and only incidentally for machines to execute. </h1>
+<hr><br>
+<h2> teste </h2>
+<h1 align="left"> O que eu estou aprendendo?: </h1>
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a align="left"> <a href="https://www.pt.wikipedia.org/wiki/PHP" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="c" width="40" height="40"/> </a>
+<a align="left"> <a href="https://www.pt.wikipedia.org/wiki/java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a>
 
 
 
