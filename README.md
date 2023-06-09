@@ -2,7 +2,8 @@
 <h1 align="center"> Programs should be written for people to read, and only incidentally for machines to execute. </h1>
 <hr><br>
 <h2 align="center"> Olá, tudo bem? Espero que sim! </h2><br>
-<p> Meu nome é Mateus Almeida, tenho atualmente 18 e estudo no Instuto Federal de Ciência Educação e Tecnologia do Ceará</p>
+<h3 align="left"> Me conheça!: </h3>
+<p> Meu nome é Mateus Almeida, tenho atualmente 18 anos e estudo no Instuto Federal de Ciência Educação e Tecnologia do Ceará (cursando o 3o período do curso Técnico integrado em Informática).</p>
 <h1 align="left"> O que eu estou aprendendo?: </h1>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
