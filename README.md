@@ -7,7 +7,7 @@
 <h1 align="left"> O que eu estou aprendendo?: </h1>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a align="left"> <a href="https://www.pt.wikipedia.org/wiki/PHP" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="c" width="40" height="40"/> </a>
+<a align="left"> <a href="https://www.pt.wikipedia.org/wiki/PHP" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="c" width="40" height="40"/> </a>
 <a align="left"> <a href="https://www.pt.wikipedia.org/wiki/java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a>
 
 
