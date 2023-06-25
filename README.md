@@ -1,28 +1,52 @@
+### Olá, seja bem-vindo(a) 👋
 
-<h1 align="center"> Programs should be written for people to read, and only incidentally for machines to execute. </h1>
-<hr><br>
-<h2 align="center"> Olá, tudo bem? Espero que sim! </h2><br>
-<h3 align="left"> Me conheça!: </h3>
-<p> Meu nome é Mateus Almeida, tenho atualmente 18 anos e estudo no Instuto Federal de Ciência Educação e Tecnologia do Ceará (cursando o 3o período do curso Técnico integrado em Informática).</p>
-<h1 align="left"> O que eu estou aprendendo?: </h1>
+Gosto de escrever códigos e ver minhas ideias tomando forma
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a align="left"> <a href="https://www.pt.wikipedia.org/wiki/ruby" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="c" width="40" height="40"/> </a>
-<a align="left"> <a href="https://www.pt.wikipedia.org/wiki/java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **DEV** {
+ val name = "MATEUS ALMEIDA"
+ val acknowledgements = "LOW-LEVEL PROGRAMMING"
+ val school = "IFCE - P3 TÉCNICO EM INFORMÁTICA"
+ val hobbies = "Além de códigos, gosto de escrever poesia"
+ val languages = listOf("JAVA", "C/C++", "PYTHON") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
+## **GitHub Estatísticas**
 
- <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=oestrangeiro&hide_title=true&line_height=30&hide_rank=false&theme=dark&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=oestrangeiro&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oestrangeiro&theme=dracula&hide_langs_below=1" />
+</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=oestrangeiro&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=9&hide_border=true"></a>&nbsp;
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=oestrangeiro&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
-  
- 
-<a href="https://metrics.lecoq.io/insights/oestrangeiro" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
 
-</details>
+[instagram]: https://www.instagram.com/mateust2kk/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
 
-<br/>
+#### Rede Sociais!
+
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+<p> Programs should be written for people to read, and only incidentally for machines to execute. </p>
 
