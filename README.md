@@ -10,7 +10,7 @@ Gosto de escrever códigos e ver minhas ideias tomando forma
 object **DEV** {
  val name = "MATEUS ALMEIDA"
  val acknowledgements = "LOW-LEVEL PROGRAMMING"
- val school = "IFCE - P3 TÉCNICO EM INFORMÁTICA"
+ val school = "IFCE - P4 TÉCNICO EM INFORMÁTICA"
  val hobbies = "Além de códigos, gosto de escrever poesia"
  val languages = listOf("JAVA", "C/C++", "PYTHON") 
 
