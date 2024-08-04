@@ -12,7 +12,7 @@ object **DEV** {
  val acknowledgements = "LOW-LEVEL PROGRAMMING"
  val school = "IFCE - P4 TÉCNICO EM INFORMÁTICA"
  val hobbies = "Além de códigos, gosto de escrever poesia"
- val languages = listOf("JAVA", "C/C++", "PYTHON") 
+ val languages = listOf("JAVA", "C", "PHP") 
 
 }
 ```
