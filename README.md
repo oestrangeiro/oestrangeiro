@@ -26,16 +26,6 @@ object **DEV** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 
-## **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oestrangeiro&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=oestrangeiro&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
 
 [instagram]: https://www.instagram.com/mateust2kk/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
