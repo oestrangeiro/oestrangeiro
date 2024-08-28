@@ -1,4 +1,4 @@
-### $:~ echo 'Olá!';
+### $:~ echo 'Você é hardware, minha querida <3!';
 
 Quando não estou encarando um terminal, geralmente estou lendo algum livro.
 
