@@ -1,31 +1,41 @@
-### $:~ echo 'Você é hardware, minha querida';
+# Prazer, me chamo Mateus Almeida
 
-<h2>Quando não estou encarando um terminal, geralmente estou lendo algum livro.</h2>
+:~$ <code>echo "você é hardware, minha querida!"</code>
 
-## Linguagens e Ferramentas: 
+Sou **Desenvolvedor BackEnd** e atualmente estudante do **curso técnico em informática pelo IFCE**. Tenho interesse em aprender novas tecnologias e evoluir cada vez mais na área de desenvolvimento.
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+## 🚀 Minhas Skills
 
-## Estatísticas:
-<div>
-<a href="https://github.com/oestrangeiro">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oestrangeiro&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oestrangeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<code><img height="48" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="48" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+## 💼 Projetos
+
+Aqui estão alguns projetos que desenvolvi e que estão disponíveis no meu GitHub:
+
+- [h-bot](https://github.com/oestrangeiro/h-bot): Um crawler em php que baixa imagens hentai do site rule34.
+- [transfer](https://github.com/oestrangeiro/transfer): Um mini-sistema web que facilita o envio de arquivos entre o meu celular e o meu computador. Conta inclusive com um registro de logs.
+
+## 🎯 Objetivos
+
+Atualmente, estou focado em:
+
+- Aprender novas tecnologias back-end para melhorar minhas habilidades como desenvolvedor.
+- Me formar em **Técnico em Informática**.
+- Buscar oportunidades de emprego para ganhar mais experiência.
+
+## 💬 Contato
+
+<div align ="center"> 
+  <a href="https://www.instagram.com/mateust2kk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateus12092004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+## 😄 Curiosidades
 
-
-[instagram]: https://www.instagram.com/mateust2kk/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Rede Sociais!
-
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
-<p> Programs should be written for people to read, and only incidentally for machines to execute. </p>
+- Quando não estou encarando um terminal, geralmente estou ou **assistindo algum filme** ou **jogando** um CS 1.6
+- Além dos computadores, livros e filmes, sou fascinado por línguas, inclusive **sou nível A2 em francês**
 
