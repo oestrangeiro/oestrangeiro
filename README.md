@@ -11,6 +11,8 @@ Sou **Desenvolvedor BackEnd** e atualmente estudante do **curso técnico em info
 <code><img height="48" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="48" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-plain.svg" alt="Postman"/></code>
+
 
 ## 💼 Projetos
 
