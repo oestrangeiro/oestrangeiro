@@ -29,15 +29,14 @@ Atualmente, estou focado em:
 - Me formar em **Técnico em Informática**.
 - Buscar oportunidades de emprego para ganhar mais experiência.
 
+## 😄 Curiosidades
+
+- Quando não estou encarando um terminal, geralmente estou ou **assistindo algum filme** ou **jogando** um CS 1.6
+- Além dos computadores, livros e filmes, sou fascinado por línguas, inclusive **sou nível A2 em francês**
+
 ## 💬 Contato
 
 <div align ="center"> 
   <a href="https://www.instagram.com/mateust2kk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateus12092004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-## 😄 Curiosidades
-
-- Quando não estou encarando um terminal, geralmente estou ou **assistindo algum filme** ou **jogando** um CS 1.6
-- Além dos computadores, livros e filmes, sou fascinado por línguas, inclusive **sou nível A2 em francês**
-
