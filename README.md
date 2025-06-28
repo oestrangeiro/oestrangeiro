@@ -18,7 +18,7 @@ Sou **Desenvolvedor BackEnd** e atualmente estudante do **curso técnico em info
 
 Aqui estão alguns projetos que desenvolvi e que estão disponíveis no meu GitHub:
 
-- [h-bot](https://github.com/oestrangeiro/h-bot): Um crawler em php que baixa imagens hentai do site rule34.
+- [h-bot](https://github.com/oestrangeiro/h-bot): Um crawler em php que baixa imagens do site rule34.
 - [transfer](https://github.com/oestrangeiro/transfer): Um mini-sistema web feito em php que facilita o envio de arquivos entre o meu celular e o meu computador. Conta inclusive com um registro de logs.
 
 ## 🎯 Objetivos
