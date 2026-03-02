@@ -20,7 +20,8 @@ Aqui estão alguns projetos que desenvolvi e que estão disponíveis no meu GitH
 - [h-bot](https://github.com/oestrangeiro/h-bot): Um crawler em php que baixa imagens do site rule34.
 - [transfer](https://github.com/oestrangeiro/transfer): Um mini-sistema web feito em php que facilita o envio de arquivos entre o meu celular e o meu computador. Conta inclusive com um registro de logs.
 - [piggybank](https://github.com/oestrangeiro/piggybank): Uma API de uma sistema de gerenciamento de doações e campanhas, em PHP e CI4.
-- [weeping-angel](https://github.com/oestrangeiro/weeping-angel): Um sistema web que visa alertar aos prestadores de suporte técnico de TI (na Reitoria do IFCE) sobre manutenções preventivas de computadores por email (ainda em desenvolvimento)
+- [weeping-angel](https://github.com/oestrangeiro/weeping-angel): Um sistema web que visa alertar aos prestadores de suporte técnico de TI (na Reitoria do IFCE) sobre manutenções preventivas de computadores
+- [mHex](https://github.com/oestrangeiro/mHex): Um leitor mínimo de hexadecimal em C (Simples, mas tenho orgulho dele)
 
 ## 🎯 Objetivos
 
