@@ -22,6 +22,7 @@ Aqui estão alguns projetos que desenvolvi e que estão disponíveis no meu GitH
 - [piggybank](https://github.com/oestrangeiro/piggybank): Uma API de uma sistema de gerenciamento de doações e campanhas, em PHP e CI4.
 - [weeping-angel](https://github.com/oestrangeiro/weeping-angel): Um sistema web que visa alertar aos prestadores de suporte técnico de TI (na Reitoria do IFCE) sobre manutenções preventivas de computadores
 - [mHex](https://github.com/oestrangeiro/mHex): Um leitor mínimo de hexadecimal em C (Simples, mas tenho orgulho dele)
+- [ClawFinger](https://github.com/oestrangeiro/claw-finger): Um simples visualizador de modelos 3D em C (e Raylib). Ainda em desenvolvimento...
 
 ## 🎯 Objetivos
 
